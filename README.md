@@ -7,8 +7,8 @@
   <a href="https://www.facebook.com/kunanon.monthaisong" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.instagram.com/kunanon8_/">
+    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=twitter&logoColor=white" alt="instagram Badge"/>
   </a>
 </div>
 <!--
