@@ -10,6 +10,7 @@
   <a href="https://www.instagram.com/kunanon8_/">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=twitter&logoColor=white" alt="instagram Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Kunanon&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
 **Kunanon-Aphro/Kunanon-Aphro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
