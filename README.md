@@ -17,13 +17,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I studied Data Science at the bachelor's level and worked in Data Science for 2 years, then came to do AI Engineer 
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I work as an artificial intelligence Engineer And I'm CEO Tech Start up
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :zap: I'm interested in business. and technology skills 
 
 ---
 
